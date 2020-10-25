@@ -1,3 +1,25 @@
-tags: [Spring, Kotlin, React, Javascript, Heroku, Docker, IDE, CI/CD, Postgres, Spring Data, Hibernate, REST, CSV, Java, Spring Cloud, GitHub Actions, OpenAPI | Swagger, Maven, Mockito, Liquibase, GitHub Pages, Spring Batch]
+tags: [
+Spring,
+Spring Batch,
+Spring Cloud,
+Spring Data, 
+Kotlin, 
+React, 
+Javascript, 
+Heroku, 
+Docker, 
+IDE, 
+CI/CD, 
+Postgres,
+Hibernate, 
+REST, 
+CSV, 
+Java, 
+GitHub Actions, 
+OpenAPI | Swagger, 
+Maven, Mockito, 
+Liquibase, 
+GitHub Pages
+]
 
 tags: [Kotlin, IDE]
