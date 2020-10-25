@@ -2,7 +2,7 @@
 layout: post
 title:  "How to show SQL statements and parameters with Hibernate"
 date:   2020-07-26 17:31:00 +0300
-categories: other
+tags: [Spring, Hibernate]
 ---
 
 ### Overview

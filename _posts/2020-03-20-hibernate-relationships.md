@@ -2,7 +2,7 @@
 layout: post
 title:  "Hibernate relationships"
 date:   2020-03-20 22:40:00 +0300
-categories: other
+tags: [Hibernate]
 ---
 
 ### Overview

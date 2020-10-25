@@ -2,7 +2,7 @@
 layout: post
 title:  "My favorite IntelliJ IDEA plugins"
 date:   2020-08-25 18:30:00 +0300
-categories: other
+tags: [IDE, Kotlin]
 ---
 
 ### Overview

@@ -2,7 +2,7 @@
 layout: post
 title:  "How to write data in CSV format"
 date:   2020-06-25 00:39:00 +0300
-categories: other
+tags: [Kotlin, CSV]
 ---
 
 ### Overview

@@ -2,7 +2,7 @@
 layout: post
 title:  "How to deploy a java docker app with a database into the cloud"
 date:   2020-05-10 16:03:00 +0300
-categories: other
+tags: [Spring, Java, Heroku, Docker, Postgres]
 ---
 
 ### Overview 

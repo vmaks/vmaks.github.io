@@ -2,7 +2,7 @@
 layout: post
 title:  "How to handle POST request failure"
 date:   2020-10-10 15:36:00 +0300
-categories: other
+tags: [REST]
 ---
 
 ### Overview

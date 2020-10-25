@@ -2,7 +2,7 @@
 layout: post
 title:  "How to use GitHub Actions"
 date:   2020-05-24 23:00:00 +0300
-categories: other
+tags: [CI/CD, GitHub Actions]
 ---
 
 ### Overview

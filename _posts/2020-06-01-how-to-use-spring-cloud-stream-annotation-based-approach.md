@@ -2,7 +2,7 @@
 layout: post
 title:  "How to use Spring Cloud Stream functional annotation-based approach"
 date:   2020-06-03 22:32:00 +0300
-categories: other
+tags: [Spring, Spring Cloud, Kotlin]
 ---
 
 ### Overview

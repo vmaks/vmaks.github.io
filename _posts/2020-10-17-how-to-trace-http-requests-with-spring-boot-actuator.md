@@ -2,7 +2,7 @@
 layout: post
 title:  "How to trace http requests with the help of spring boot actuator"
 date:   2020-10-17 21:13:00 +0300
-categories: other
+tags: [Spring]
 ---
 
 ### Overview

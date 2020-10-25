@@ -2,7 +2,7 @@
 layout: post
 title:  "How to use Spring Cloud Stream functional approach"
 date:   2020-06-07 18:09:00 +0300
-categories: other
+tags: [Spring, Spring Cloud, Kotlin]
 ---
 
 ### Overview

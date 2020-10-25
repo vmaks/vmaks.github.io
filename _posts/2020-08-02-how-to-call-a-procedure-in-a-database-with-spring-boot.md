@@ -2,7 +2,7 @@
 layout: post
 title:  "How to call a procedure in a database with spring boot"
 date:   2020-08-02 17:53:00 +0300
-categories: other
+tags: [Spring, Kotlin]
 ---
 
 ### Overview

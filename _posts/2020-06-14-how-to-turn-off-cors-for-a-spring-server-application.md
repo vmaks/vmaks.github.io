@@ -2,7 +2,7 @@
 layout: post
 title:  "How to turn off CORS for a Spring server application"
 date:   2020-06-14 19:26:00 +0300
-categories: other
+tags: [Spring, Java]
 ---
 
 ### Overview

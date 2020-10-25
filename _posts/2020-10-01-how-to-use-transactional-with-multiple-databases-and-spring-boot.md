@@ -2,7 +2,7 @@
 layout: post
 title:  "How to use @Transactional with multiple databases and Spring Boot"
 date:   2020-10-01 22:42:00 +0300
-categories: other
+tags: [Spring, Spring Data, Kotlin]
 ---
 
 ### Overview

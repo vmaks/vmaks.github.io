@@ -2,7 +2,7 @@
 layout: post
 title:  "Hibernate many-to-many unidirectional relationship"
 date:   2020-04-12 23:34:00 +0300
-categories: other
+tags: [Spring, Kotlin, Spring Data, Hibernate]
 ---
 
 ### Overview

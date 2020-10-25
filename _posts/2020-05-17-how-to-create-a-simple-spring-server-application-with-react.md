@@ -2,7 +2,7 @@
 layout: post
 title:  "How to create a simple Spring server application with React frontend"
 date:   2020-05-17 21:04:00 +0300
-categories: other
+tags: [Spring, Kotlin, React, Javascript]
 ---
 
 ### Overview

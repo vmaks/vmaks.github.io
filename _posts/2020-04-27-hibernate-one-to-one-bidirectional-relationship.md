@@ -2,7 +2,7 @@
 layout: post
 title:  "Hibernate one-to-one bidirectional relationship"
 date:   2020-04-27 21:36:00 +0300
-categories: other
+tags: [Spring, Kotlin, Spring Data, Hibernate]
 ---
 
 ### Overview 

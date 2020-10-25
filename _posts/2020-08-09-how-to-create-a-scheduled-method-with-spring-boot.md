@@ -2,7 +2,7 @@
 layout: post
 title:  "How to create a scheduled method with spring boot"
 date:   2020-08-09 15:18:00 +0300
-categories: other
+tags: [Spring, Kotlin]
 ---
 
 ### Overview

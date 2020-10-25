@@ -2,7 +2,7 @@
 layout: post
 title:  "Hibernate many-to-many bidirectional relationship"
 date:   2020-04-05 20:05:00 +0300
-categories: other
+tags: [Spring, Kotlin, Spring Data, Hibernate]
 ---
 
 ### Overview

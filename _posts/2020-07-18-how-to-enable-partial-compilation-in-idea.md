@@ -2,7 +2,7 @@
 layout: post
 title:  "How to enable partial compilation in IDEA"
 date:   2020-07-18 22:40:00 +0300
-categories: other
+tags: [IDE]
 ---
 
 ### Overview

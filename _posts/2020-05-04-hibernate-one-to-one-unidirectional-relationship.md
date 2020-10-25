@@ -2,7 +2,7 @@
 layout: post
 title:  "Hibernate one-to-one unidirectional relationship"
 date:   2020-05-04 18:02:00 +0300
-categories: other
+tags: [Spring, Kotlin, Spring Data, Hibernate]
 ---
 
 ### Overview 
