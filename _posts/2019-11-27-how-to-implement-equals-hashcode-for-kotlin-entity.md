@@ -2,7 +2,7 @@
 layout: post
 title:  "How to implement equals() and hashCode() for a Kotlin entity"
 date:   2019-11-27 22:11:00 +0300
-categories: other
+tags: [Kotlin, Hibernate, Maven]
 ---
 
 ### Overview

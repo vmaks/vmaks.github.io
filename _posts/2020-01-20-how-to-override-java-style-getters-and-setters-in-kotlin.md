@@ -2,7 +2,7 @@
 layout: post
 title:  "How to override Java-style getters and setters in Kotlin"
 date:   2020-01-20 22:29:00 +0300
-categories: other
+tags: [Kotlin]
 ---
 
 ### Overview

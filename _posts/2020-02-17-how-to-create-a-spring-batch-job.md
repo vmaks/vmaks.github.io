@@ -2,7 +2,7 @@
 layout: post
 title:  "How to create a Spring Batch job"
 date:   2020-02-17 00:27:00 +0300
-categories: other
+tags: [Spring, Spring Batch]
 ---
 
 ### Overview

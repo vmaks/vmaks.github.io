@@ -2,7 +2,7 @@
 layout: post
 title:  "Why you should use Spring Boot Dev Tools"
 date:   2020-02-24 17:33:00 +0300
-categories: other
+tags: [Spring, IDE]
 ---
 
 ### Overview

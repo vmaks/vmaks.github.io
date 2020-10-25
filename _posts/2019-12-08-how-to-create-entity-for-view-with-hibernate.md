@@ -2,7 +2,7 @@
 layout: post
 title:  "How to create an entity for a view with the help of the Hibernate"
 date:   2019-12-08 20:33:00 +0300
-categories: other
+tags: [Kotlin, Hibernate]
 ---
 
 ### Overview

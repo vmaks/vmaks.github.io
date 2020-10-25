@@ -2,7 +2,7 @@
 layout: post
 title:  "How to fix an exception at the first call with Zuul1 gateway"
 date:   2020-01-27 23:45:00 +0300
-categories: other
+tags: [Spring, Spring Cloud]
 ---
 
 ### Overview

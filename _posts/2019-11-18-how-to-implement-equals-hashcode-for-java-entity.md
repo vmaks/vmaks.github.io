@@ -2,7 +2,7 @@
 layout: post
 title:  "How to implement equals() and hashCode() for a Java entity"
 date:   2019-11-18 22:25:00 +0300
-categories: other
+tags: [Java, Hibernate, Maven]
 ---
 
 ### Overview

@@ -2,7 +2,7 @@
 layout: post
 title:  "How to set up multiple databases with Spring Boot"
 date:   2020-02-02 22:38:00 +0300
-categories: other
+tags: [Spring, Spring Data]
 ---
 
 ### Overview

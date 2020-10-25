@@ -2,7 +2,7 @@
 layout: post
 title:  "How to export swagger specification as html or word document"
 date:   2020-02-10 00:13:00 +0300
-categories: other
+tags: [Swagger, OpenAPI, Maven]
 ---
 
 ### Overview

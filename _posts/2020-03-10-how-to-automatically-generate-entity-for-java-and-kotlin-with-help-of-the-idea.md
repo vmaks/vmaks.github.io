@@ -2,7 +2,7 @@
 layout: post
 title:  "How to automatically generate entity for Java and Kotlin with help of the IDEA"
 date:   2020-03-10 23:00:00 +0300
-categories: other
+tags: [Kotlin, IDE, Java]
 ---
 
 ### Overview
