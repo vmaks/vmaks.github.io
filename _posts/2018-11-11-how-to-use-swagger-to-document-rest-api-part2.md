@@ -2,7 +2,7 @@
 layout: post
 title:  "How to use swagger to document REST API: Code first approach"
 date:   2018-11-11 18:20:00 +0300
-tags: [Kotlin, Spring, Swagger, REST]
+tags: [Kotlin, Spring, OpenAPI | Swagger, REST]
 ---
 
 ### Code first approach

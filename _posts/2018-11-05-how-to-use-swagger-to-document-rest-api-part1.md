@@ -2,7 +2,7 @@
 layout: post
 title:  "How to use swagger to document REST API: API first approach"
 date:   2018-11-05 19:56:00 +0300
-tags: [Maven, Swagger, REST]
+tags: [Maven, OpenAPI | Swagger, REST]
 ---
 
 [Swagger][1] is a tool that helps you create and document your REST API.
