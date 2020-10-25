@@ -26,15 +26,31 @@ comment content of /_includes/multilingual-sel.html page
 - Remove "categories" from a post
 - Add "tags" to a post
 
-You could use the following code to test it:
+### Test blog locally
+
+- Install ruby
+
+For windows, you could download here https://rubyinstaller.org/downloads/
+
+- Install the jekyll and bundler gems:
 
 ```
-# Install dependencies based on Gemfile file
-bundle install
+gem install jekyll bundler
+```
 
-# Run server locally
+- Install dependencies based on Gemfile file:
+
+```
+bundle install
+```
+
+- Run server locally:
+
+```
 bundle exec jekyll serve
 ```
+
+- Browse to http://localhost:4000
 
 ### Conclusion
 
