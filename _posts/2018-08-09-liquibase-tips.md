@@ -2,7 +2,7 @@
 layout: post
 title:  "Liquibase Tips"
 date:   2018-08-09 22:40:00 +0300
-categories: other
+tags: [Liquibase]
 ---
 
 If you haven't heard about [liquibase][0] yet then I will explain it shortly:

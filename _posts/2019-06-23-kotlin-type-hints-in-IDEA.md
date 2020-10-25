@@ -2,7 +2,7 @@
 layout: post
 title:  "Kotlin type hints in IDEA"
 date:   2019-06-23 18:28:00 +0300
-categories: other
+tags: [Kotlin, IDE]
 ---
 
 Kotlin type inference is a cool thing. It literally allows you to type less. 

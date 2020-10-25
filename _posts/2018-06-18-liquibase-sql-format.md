@@ -2,7 +2,7 @@
 layout: post
 title:  "Liquibase SQL format. Statement and rollback example"
 date:   2018-06-18 09:01:00 +0300
-categories: other
+tags: [Liquibase]
 ---
 
 ### Statement and rollback example

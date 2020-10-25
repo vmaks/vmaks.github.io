@@ -2,7 +2,7 @@
 layout: post
 title:  "How to deploy a spring boot application into a Java EE Application Server"
 date:   2018-08-19 23:56:00 +0300
-categories: other
+tags: [Java, Spring]
 ---
 
 If you want to deploy a spring boot application into a Java EE Application Server (Glassfish, Jboss Wildfly and etc) you have to make some changes to [the source code and the build script][1]. I will show you an example with maven, however you could easily apply the same changes to a Gradle build script as well.

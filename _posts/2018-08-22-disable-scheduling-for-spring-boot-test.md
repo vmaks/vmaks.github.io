@@ -2,7 +2,7 @@
 layout: post
 title:  "How to disable scheduling for a spring boot test"
 date:   2018-08-22 22:56:00 +0300
-categories: other
+tags: [Java, Spring]
 ---
 
 Add a separate configuration class with *@Profile(!test)*, *@EnableScheduling* annotations

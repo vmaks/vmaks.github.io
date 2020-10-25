@@ -2,7 +2,7 @@
 layout: post
 title:  "Java type hints in IDEA"
 date:   2019-06-30 12:48:00 +0300
-categories: other
+tags: [Java, IDE]
 ---
 
 Java 10 introduced a new [var keyword](http://openjdk.java.net/jeps/286) that allows you to not declare type explicitly. 

@@ -2,7 +2,7 @@
 layout: post
 title:  "How to auto format Kotlin source code"
 date:   2019-07-05 23:57:00 +0300
-categories: other
+tags: [Kotlin, Maven]
 ---
 
 Modern programming languages like [Go](https://golang.org/pkg/go/format/) and [Rust](https://github.com/rust-lang/rustfmt) use an additional tool that automatically formats source code according to the official code style. 

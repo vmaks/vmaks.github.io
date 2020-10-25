@@ -2,7 +2,7 @@
 layout: post
 title:  "How to add liquibase to the existing project"
 date:   2018-05-17 22:05:00 +0300
-categories: other
+tags: [Liquibase, Maven]
 ---
 
 ### Overview

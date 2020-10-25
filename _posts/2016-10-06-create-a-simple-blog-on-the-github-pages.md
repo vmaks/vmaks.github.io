@@ -2,7 +2,7 @@
 layout: post
 title:  "Create a simple blog on the GitHub Pages"
 date:   2016-10-06 11:24:00 +0300
-categories: other
+tags: [GitHub Pages]
 ---
 
 I wrote a post about how to create a simple and free blog with help of the GitHub Pages.

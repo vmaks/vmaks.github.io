@@ -2,7 +2,7 @@
 layout: post
 title:  "Xamarin Forms no resource found that matches the given name error"
 date:   2016-11-03 23:53:00 +0300
-categories: xamarin
+tags: [Xamarin]
 ---
 
 I have Visual Studio 2015 Update 3, Xamarin 4.2.0.719, Xamarin Forms.

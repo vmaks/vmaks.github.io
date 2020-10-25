@@ -2,7 +2,7 @@
 layout: post
 title:  "Spring boot with Mockito and Kotlin"
 date:   2019-11-04 21:19:00 +0300
-categories: other
+tags: [Kotlin, Spring, Mockito]
 ---
 
 ### Overview

@@ -2,7 +2,7 @@
 layout: post
 title:  "How to visualize OpenAPI (Swagger) with a Spring application"
 date:   2019-10-15 00:30:00 +0300
-categories: other
+tags: [Kotlin, Spring, Swagger]
 ---
 
 If you want to visualize OpenAPI on a server then you need to use [swagger-ui](https://swagger.io/tools/swagger-ui/). Swagger-ui is a [React](https://reactjs.org/) application embedded in an html page. You need a webserver to serve it to a client.

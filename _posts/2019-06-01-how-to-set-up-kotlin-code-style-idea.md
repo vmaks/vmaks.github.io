@@ -2,7 +2,7 @@
 layout: post
 title:  "How to set up Kotlin code style in IDEA"
 date:   2019-06-01 23:36:00 +0300
-categories: other
+tags: [Kotlin, IDE]
 ---
 
 In the Java world no one argues about naming conventions and code style, right?

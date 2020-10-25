@@ -2,7 +2,7 @@
 layout: post
 title:  "How to mark Java library as nullable"
 date:   2019-07-12 23:00:00 +0300
-categories: other
+tags: [Kotlin, Java]
 ---
 
 Sometimes it is useful to mark a Java library as Nullable so you will be able to use it safely from Kotlin.
