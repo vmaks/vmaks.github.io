@@ -19,7 +19,8 @@ GitHub Actions,
 OpenAPI | Swagger, 
 Maven, Mockito, 
 Liquibase, 
-GitHub Pages
+GitHub Pages,
+Git
 ]
 
 tags: [Kotlin, IDE]
