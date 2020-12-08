@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to test a blog for GitHub Pages locally"
-date:   2020-12-06 20:55:00 +0300
+date:   2020-12-08 22:51:00 +0300
 tags: [GitHub Pages]
 ---
 
